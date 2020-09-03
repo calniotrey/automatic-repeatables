@@ -1,0 +1,82 @@
+Tired of having to select your repeatables all the time? Do you just want not having to worry about them? You've come to the right place!
+[b]Automatic Repeatables[/b] allows you to research repeatables technologies without having to lift a finger! The time taken to research it is also the time it would have taken you to research it (approximately due to Stellaris limitations).
+(2.6.* and 2.7.* compatible)
+
+[h3]Sounds amazing, but how does it work?[/h3]
+It's really easy! The mod will research the repeatables according to a priority list YOU specify.
+
+[h3]What do I have to do to use this wonderful feature?[/h3]
+Open the mod menu from the edicts list and sort the priority the repeatables should be picked. Then, as long as you don't research anything in a field, your produced research for that field will be stored (visible on the topbar when hovering over the physics/society/engineering production). Once it reaches the cost of the highest priority research that is a research option (it may be a bit higher), it will use the stored research points to research it. It will then shuffle the current repeatables research options.
+
+The capped repeatables will of course stop when the cap is reached.
+Don't worry about "losing" any research point, they are never lost ;)
+
+[h3]Wow, it's easier than I thought! But what about my research speed or the tech cost that I set in the galaxy settings?[/h3]
+The mod takes the research speed (mostly) into account. So no need to worry about it.
+The tech cost can only be known by an effect that lacks documentation. So it is currently not accessible by the mod. With another modder, we contacted a developer from Paradox to have more documentation about it. As for now, I believe every player of Stellaris is a responsible person. That's why you can set this value via the added edict. By default, this value is of course 1. It allows you to "cheat" if you want, but it will just be less fun.
+
+[h3]That's a really cool feature! Anything else I need to know?[/h3]
+I didn't test when adding the mod to a save, but it should work flawlessly [b]IF[/b] you have not yet researched any repeatable.
+If you have but have not researched any capped repeatable, then it will probably work fine with some smaller cost values.
+If you have researched capped repeatable, it should work fine (with the same restriction as above).
+
+You can use the old version of the mod by using the mod menu. That version is built-in. For more informations about it, check the "old description" in the steam discussions.
+
+[h3]Is it compatible with this mod adding repeatables? And is it achievement compatible?[/h3]
+Sadly, not totally. The mod will only track vanilla repeatables. You will need to make a compatibility patch or ([i]gasps[/i]) research it by hand.
+This mod overwrites the vanilla repeatables. So put it lower in the mod order than any other mod overwriting them. In doubt, put it near the bottom.
+Sadly, it is not achievement compatible.
+
+[h3]You have convinced me, I will totally try this mod![/h3]
+Have fun!
+
+
+[h3]Credits[/h3]
+Thanks to mr_trousers for the altered modding den image :)
+
+[h3]Legal stuff[/h3]
+If you want to translate this mod, feel free to do so and contact me here or (even better) on the Stellaris Modding Den in my channel #stellaris-list-extender (link on the image below). I will be very happy to put you in the Credits section ;)
+
+You may make whatever you want with this mod.
+As usual, I'm not responsable for any damage/incident resulting of the use of this mod, including (but not limited to) save corruption, achievements blocked and so on.
+
+[url=https://discord.gg/bHVez2C][img]https://i.imgur.com/jkzMSzg.png[/img][/url]
+
+
+--------- Old description --------
+
+Tired of having to select your repeatables all the time? Do you just want not having to worry about them? You've come to the right place!
+[b]Automatic Repeatables[/b] allows you to research repeatables technologies without having to lift a finger! The time taken to research it is also the time it would have taken you to research it (approximately due to Stellaris limitations).
+(2.6.* and 2.7.* compatible)
+
+[h3]Sounds amazing, but how does it work?[/h3]
+It's really easy! The mod will remember which repeatable you researched last and will research it as long as you don't research anything.
+
+[h3]What do I have to do to use this wonderful feature?[/h3]
+Just research one the repeatable you want once. Then, as long as you don't research anything in that field, your produced research will be stored (visible on the topbar when hovering over the physics/society/engineering production). Once it reaches the cost of the research (it may be a bit higher), it will use them to research it.
+If you want to automatically research another repeatable, just research it a first time, and it will switch to it on it's own.
+The capped repeatables will of course stop when the cap is reached.
+Don't worry about "losing" any research point, the are never lost ;)
+
+[h3]Wow, it's easier than I thought! But what about my research speed or the tech cost that I set in the galaxy settings?[/h3]
+I believe every player of Stellaris is a responsible person. That's why you can set these values via the added edict. By default, these values are of course 1. It allows you to "cheat" if you want, but it will just be less fun.
+
+[h3]That's a really cool feature! Anything else I need to know?[/h3]
+I didn't test when adding the mod to a save, but it should work flawlessly [b]IF[/b] you have not yet researched any repeatable.
+If you have but have not researched any capped repeatable, then it will probably work fine with some smaller cost values.
+If you have researched capped repeatable, I would suggest not letting the mod research it as I don't know what would happen.
+
+[h3]Is it compatible with this mod adding repeatables? And is it achievement compatible[/h3]
+Sadly, not totally. The mod will only track vanilla repeatabes. You will need to make a compatibility patch or ([i]gasps[/i]) research it by hand.
+Mods changing the cost of repeatables may be totally fine or have some strange base cost.
+Sadly, it is not achievement compatible.
+
+[h3]You have convinced me, I will totally try this mod![/h3]
+Have fun!
+
+
+[h3]Legal stuff[/h3]
+You may make whatever you want with this mod.
+As usual, I'm not responsable for any damage/incident resulting of the use of this mod, including (but not limited to) save corruption, achievements blocked and so on.
+
+[url=https://discord.gg/bHVez2C][img]https://i.imgur.com/4Und3QN.png[/img][/url]
