@@ -126,7 +126,3 @@
     AR_tech_repeatable_reduced_building_time: "$tech_repeatable_reduced_building_time$ (£building£ £ship_stats_build_time£)"
     AR_tech_repeatable_reduced_building_time.allowed: "§G$tech_repeatable_reduced_building_time$ (£building£ £ship_stats_build_time£)§!"
     AR_tech_repeatable_reduced_building_time.disallowed: "§R$tech_repeatable_reduced_building_time$ (£building£ £ship_stats_build_time£)§!"
-
-
-    
-    
