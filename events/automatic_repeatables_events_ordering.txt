@@ -332,7 +332,7 @@ country_event = {
         }
         name = {
             text = "AR_tech_repeatable_improved_starbase_capacity"
-            trigger = { check_variable = { which = AR_priority_society_0 value = 8 } }
+            trigger = { check_variable = { which = AR_priority_society_3 value = 8 } }
         }
         hidden_effect = {
             set_variable = { which = AR_temp value = AR_priority_society_2 }
