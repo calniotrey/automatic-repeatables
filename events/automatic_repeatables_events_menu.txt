@@ -48,12 +48,12 @@ country_event = {
     }
     
     # TODO remove
-    option = { # Change tech cost
-        name = automatic_repeatables_menu.1.a
-        hidden_effect = {
-            country_event = { id = automatic_repeatables_menu.6 }
-        }
-    }
+    # option = { # Change tech cost
+    #     name = automatic_repeatables_menu.1.a
+    #     hidden_effect = {
+    #         country_event = { id = automatic_repeatables_menu.6 }
+    #     }
+    # }
     option = { # Change physics tech research priority
         name = automatic_repeatables_menu.1.priority_physics
         trigger = { has_country_flag = AR_pick_advanced }

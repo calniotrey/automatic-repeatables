@@ -63,6 +63,11 @@ country_event = {
     }
     
     immediate = {
+        # Get the tech/tradition cost multiplier
+        get_galaxy_setup_value = {
+            which = AR_research_cost_multiplier
+            setting = tech_costs_scale
+        }
         # Get the sprawl over admin cap
         if = {
             limit = {
@@ -144,6 +149,7 @@ country_event = {
             }
         }
         # Check for tech cost multiplier
+        # Not needed anymore, keep it for legacy purpose in case someone updated the mod on a playthrough
         if = { limit = { check_variable = { which = AR_research_cost_multiplier value <= 0 } }
             AR_get_research_cost_multiplier = yes
         }
